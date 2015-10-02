@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_01"/>
+	<classpathentry exported="true" kind="lib" path="src/lib/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/common/lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/common/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/common/lib/commons-beanutils-bean-collections-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/common/lib/commons-beanutils-core-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/common/lib/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
